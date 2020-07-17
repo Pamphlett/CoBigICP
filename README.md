@@ -1,4 +1,8 @@
-# CoBigICP
+# CoBigICP:  #
+
+CoBigICP is a fast and accurate point cloud registration method that based on correntropy noise modeling and bidirection correspondence.
+
+![picture alt](https://github.com/Pamphlett/CoBigICP/tree/master/assets/cmp.png "Comparative Result")
 
 This is a demo program for CoBigICP.
 
