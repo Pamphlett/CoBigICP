@@ -29,4 +29,4 @@ If you find the paper helpful or use the code in your project, please cite:
 
 
 ## Acknowledgements ##
-Many thanks to ([Dr.Ga](https://github.com/DrGabor)) for the fruitful discussions.
+Many thanks to (Dr.Ga(https://github.com/DrGabor)) for the fruitful discussions.
